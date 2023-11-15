@@ -49,10 +49,3 @@
     "tailwindcss": "^3.3.2"
   }
 }
-"script":
-{
-   "dev": "next dev",
-             ==>  "build": "npm run build", 
-    "start": "next start",
-    "lint": "next lint"
-}
